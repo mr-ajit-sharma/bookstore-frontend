@@ -1,0 +1,1 @@
+export const BASE_URL="https://bookstore-backend-9ppq.onrender.com";
